@@ -1,5 +1,5 @@
-# OOP Repository  
-### **CS 211 - Object-Oriented Programming**  
+# ☕️ OOP Repository  
+### 👩🏻‍💻**CS 211 - Object-Oriented Programming**  
 
 I am **Marielle J. Rectin**, a 2nd Year Computer Science student at **Batangas State University - The National Engineering University, Alangilan Campus**. This repository reflects my journey and growth in the field of Object-Oriented Programming (OOP). It includes my hands-on activities, exercises, and projects that demonstrate the application of OOP principles in solving real-world problems.  
  
