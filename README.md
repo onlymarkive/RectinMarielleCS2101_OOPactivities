@@ -30,7 +30,7 @@ This repository showcases my hands-on Java activities and projects for the CS 21
 
 2. **Exercise Sets**  
    - [Exercise Set 1](https://github.com/onlymarkive/RectinMarielleCS2101_OOPactivities/tree/main/Exercise%20Sets/Exercise%20Set%201)  
-   - [Exercise Set 1](https://github.com/onlymarkive/RectinMarielleCS2101_OOPactivities/tree/main/Exercise%20Sets/Exercise%20Set%202)
+   - [Exercise Set 2](https://github.com/onlymarkive/RectinMarielleCS2101_OOPactivities/tree/main/Exercise%20Sets/Exercise%20Set%202)
 ---
 
 ## 📝 Acknowledgement  
