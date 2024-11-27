@@ -1,4 +1,4 @@
-# OOP Laboratory Activities Repository  
+# OOP Repository  
 ### **CS 211 - Object-Oriented Programming**  
 
 I am **Marielle J. Rectin**, a 2nd Year Computer Science student at **Batangas State University - The National Engineering University, Alangilan Campus**. This repository reflects my journey and growth in the field of Object-Oriented Programming (OOP). It includes my hands-on activities, exercises, and projects that demonstrate the application of OOP principles in solving real-world problems.  
@@ -34,7 +34,7 @@ This repository showcases my hands-on Java activities and projects for the CS 21
 ---
 
 ## 📝 Acknowledgement  
-I would like to extend my heartfelt gratitude to **Ms. Fatima Maroe P. Agdon**, our CS 211 instructor, for her invaluable guidance and support throughout the semester. Her teaching has been instrumental in enhancing my skills and understanding of OOP concepts.  
+I would like to extend my heartfelt gratitude to **Ms. Fatima Marie P. Agdon**, our CS 211 instructor, for her invaluable guidance and support throughout the semester. Her teaching has been instrumental in enhancing my skills and understanding of OOP concepts.  
 
 ---
 
