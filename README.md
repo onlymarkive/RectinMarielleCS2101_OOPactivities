@@ -7,7 +7,7 @@ I am **Marielle J. Rectin**, a 2nd Year Computer Science student at **Batangas S
 
 ## 📚 About the Repository  
 Welcome to my Object-Oriented Programming (OOP) repository!  
-This repository showcases my hands-on Java activities and projects for the CS 211 course. Moreover, reflects my journey and growth in the field of Object-Oriented Programming (OOP). It includes my hands-on activities, exercises, and projects that demonstrate the application of OOP principles in solving real-world problems. These activities were crafted to strengthen my understanding of key OOP principles, including:  
+This repository showcases my hands-on Java activities and projects for the CS 211 course. Moreover, it reflects my journey and growth in the field of Object-Oriented Programming (OOP). It includes my hands-on activities, exercises, and projects that demonstrate the application of OOP principles in solving real-world problems. These activities were crafted to strengthen my understanding of key OOP principles, including:  
 
 - **Encapsulation**: Protecting and bundling data with relevant methods.  
 - **Inheritance**: Establishing relationships between classes to promote code reusability.  
